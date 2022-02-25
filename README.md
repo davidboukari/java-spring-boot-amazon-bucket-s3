@@ -4,5 +4,5 @@
 * https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
 ```
-mvn archetype:generate -DgroupId=com.hawksys.s3 -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.hawksys.s3 -DartifactId=s3-demo -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
