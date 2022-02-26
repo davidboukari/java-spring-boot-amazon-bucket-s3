@@ -19,6 +19,6 @@ curl -X GET "http://127.0.0.1:8080/api/v1/files" -H  "accept: */*" -H  "Content-
 * List all files
 ``` 
 curl -X GET "http://127.0.0.1:8080/api/v1/files/list" -H  "accept: */*"
-
+```
 
  
